@@ -4,7 +4,7 @@ description: Transform passive research into active, immersive investigation by 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4100
+  version: 1.0.4101
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
